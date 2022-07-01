@@ -1,0 +1,3 @@
+,Identifiant du bureau de vote,Numéro du bureau de vote,geo_shape,geo_point_2d,Libellé du bureau de vote,Adresse,Code Postal,Total vote 1er tour,Total vote 2eme tour,Retour second tour,Seulement 2eme tour,Seulement 1er tour,Procuration 1er tour,Procuration 2eme tour
+0,17-3,3,"{""coordinates"": [2.322540242696546, 48.884930243222385], ""type"": ""Point""}","48.884930243222385,2.322540242696546",ECOLE ELEMENTAIRE,15 RUE TRUFFAUT,75017,2,2,1,1,1,0,0
+1,18-3,3,"{""coordinates"": [2.344687211542814, 48.89230356234001], ""type"": ""Point""}","48.89230356234001,2.344687211542814",MAIRIE D'ARRONDISSEMENT,1 PLACE JULES JOFFRIN,75018,1,1,1,0,0,1,0

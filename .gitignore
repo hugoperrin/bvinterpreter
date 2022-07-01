@@ -133,3 +133,5 @@ dmypy.json
 
 # test_data
 tests/resources/
+
+data/raw/
